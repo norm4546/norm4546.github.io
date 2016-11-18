@@ -1,0 +1,102 @@
+Body{ 
+	background-image: url("../images/pattern3.jpg") ;
+	background-position: center;
+	background-repeat: repeat-y;
+	font-family: "Optima";
+	width:800px;
+	margin-top: -130px;
+	padding-top: -130px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right:auto;
+	}
+#first-column{
+    width: 350px;
+    float: left;
+    margin:15px;
+	
+	}
+#second-column{
+	width: 350px;
+	float: left;
+	margin:15px;
+	}
+
+
+.contain{
+	background-color: white;
+	padding:50px 15px 2000px 15px;
+
+	}
+
+#heading{
+	background-color:#1B587C;
+	width:2000px;
+	height: 140px;
+	position: relative;
+	top: 60px;
+	right: 400px; 
+	
+
+	}
+h1{
+	color: white;
+	font-size: 75px;
+	position: relative;
+	left: 600px;
+	top: 40px; 
+	
+
+	}
+.h3{
+	color:#CC3235;
+	font-size:28px;
+	float:left;
+	}
+	
+h4{
+	color:#1B587C;
+	float:left;
+	}
+	
+p{
+	color: #E39D46;
+	float:left;
+	margin: auto;
+	
+	}
+a:link{
+	color: #CCA15E;
+	}
+a:visited{
+	color:orange;
+	}
+a:hover{
+	color: black;
+	}
+.navlink{
+	text-decoration: none;
+	size: 10px;
+	float: left;
+	}
+img{
+	border:5px solid #1B587C;
+
+	}
+a:first-child:after {
+    content: " / ";
+    }
+a:nth-child(2):after {
+    content: " / ";
+    }
+a:nth-child(3):after {
+    content: "";
+
+footer{
+color:#CC3235;
+float:middle;
+clear:all;
+
+}
+    

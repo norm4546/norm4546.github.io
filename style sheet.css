@@ -1,0 +1,17 @@
+body {
+	background-color:pink;
+	width:900px;
+	margin:auto;
+	color:white;
+}
+
+
+h2 {
+	color:orange;
+}
+
+p,li {
+	font-family:"Papyrus","Helvetica","sans-serif";
+	font-size:25px;
+	color:lightgreen;
+}
